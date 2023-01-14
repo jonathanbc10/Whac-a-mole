@@ -3,8 +3,6 @@
 
 This is a simple Whac-a-Mole game written in JavaScript, HTML and CSS. The game consists of a grid of squares, one of which randomly contains a mole that appears and disappears in different squares. The player's objective is to click on the square containing the mole as many times as possible in the given time.
 
-## Getting Started
-To get started, download the game files and open the index.html file in your browser. The game should load and be ready to play.
 ## Run Locally
 
 Clone the project
